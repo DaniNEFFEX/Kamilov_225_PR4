@@ -1,0 +1,15 @@
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\bin\Debug\Задание№3.exe.config
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\bin\Debug\Задание№3.exe
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\bin\Debug\Задание№3.pdb
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3.csproj.AssemblyReference.cache
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\MainWindow.g.cs
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\App.g.cs
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3_MarkupCompile.cache
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3_MarkupCompile.lref
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\MainWindow.baml
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3.g.resources
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание_3.Properties.Resources.resources
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3.csproj.GenerateResource.cache
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3.csproj.CoreCompileInputs.cache
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3.exe
+C:\Kamilov_225\ПР4\Задание№3\Задание№3\obj\Debug\Задание№3.pdb
